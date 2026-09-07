@@ -1,4 +1,4 @@
-# OERATIONS AND DATA
+# OPERATIONS AND DATA
 
 Hello! I'm **Dattprasad Tawate**, an MBA graduate specializing in Finance and Business Intelligence based in Berlin, Germany. I bridge the gap between operations and commercial strategy using data analytics.
 
